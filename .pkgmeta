@@ -1,0 +1,8 @@
+package-as: Yoohoo
+
+ignore:
+    - README.md
+    - docs
+
+move-folders:
+    Yoohoo/Yohoo: Yoohoo

@@ -1,0 +1,5 @@
+Yoohoo = {
+    Audio = {},
+    Config = {},
+    Options = {}
+};

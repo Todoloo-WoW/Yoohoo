@@ -1,0 +1,18 @@
+## Interface: 120105
+## Title: Yoohoo
+## Notes: Never miss your guildies messages again!
+## --IconTexture: Interface\AddOns\Todoloo\Images\Logo
+## --AddonCompartmentFunc: Todoloo_CompartmentButton
+## --AddonCompartmentFuncOnEnter: Todoloo_CompartmentButtonOnEnter
+## --AddonCompartmentFuncOnLeave: Todoloo_CompartmentButtonOnLeave
+
+## Author: Detilium
+
+## Version: @project-version@
+## X-Curse-Project-ID: ---
+## X-Wago-ID: ---
+## X-WoWI-ID: ---
+
+## SavedVariables: YOOHOO_CONFIG
+
+Source\Manifest.xml
